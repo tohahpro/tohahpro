@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-
+## 🙋‍♂️ About Me
 - 🌱 I’m currently learning Next js
 
 - 🤔 I’m looking for help with ...
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 🚀 Language and tools:
+## 🚀 Language and tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,github,mongodb,nodejs,react,firebase)](https://skillicons.dev)
 
 
