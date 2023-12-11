@@ -4,8 +4,8 @@
 
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently learning Next js
-
+- 🌱 I’m currently learning CRUD with React & Node
+- 👯 I’m looking to collaborate on Remote Job
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
