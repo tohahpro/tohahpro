@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 #🚀 Languages and Tools:
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,github,mongodb,nodejs,react,firebase)](https://skillicons.dev)
 
 
