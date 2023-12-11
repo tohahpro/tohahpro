@@ -1,6 +1,9 @@
+
+
+![I'm a passionate Front-end Developer from Bangladesh.](https://i.ibb.co/nczXxr6/git-hub-banner.jpg)
+
 ### 👋, Hi I am Toha Hossain
 #### I'm a passionate Front-end Developer from Bangladesh.
-![I'm a passionate Front-end Developer from Bangladesh.](https://i.ibb.co/nczXxr6/git-hub-banner.jpg)
 
 
 - 🌱 I’m currently learning CRUD with React & Node 
