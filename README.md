@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 
 
-  [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+![github-wrapped](https://github.com/avgupta456/github-trends/assets/16708871/bf9406a4-6a49-4dbf-8f60-af221bb84bd6)
