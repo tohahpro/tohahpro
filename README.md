@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Hi there 👋
+# Language and tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,github,mongodb,nodejs,react,firebase)](https://skillicons.dev)
 
 
