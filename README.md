@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**tohahpro/tohahpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Toha%20Hossain&theme=dracula&border_radius=4.6)](https://git.io/streak-stats)
 
 Here are some ideas to get you started:
 
