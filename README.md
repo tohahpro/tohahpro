@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 
 
-![github-wrapped](https://github.com/avgupta456/github-trends/assets/16708871/bf9406a4-6a49-4dbf-8f60-af221bb84bd6)
+
