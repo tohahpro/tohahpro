@@ -10,7 +10,8 @@
 - 👯 I’m looking to collaborate on Remote Job 
 - 📫 How to reach me: tohahpro@gmail.com 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,github,mongodb,nodejs,react,firebase)](https://skillicons.dev)      ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tohahpro&show_icons=true)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,github,mongodb,nodejs,react,firebase)](https://skillicons.dev)     
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tohahpro&show_icons=true)  
 
 
 
