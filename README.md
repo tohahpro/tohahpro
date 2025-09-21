@@ -18,6 +18,9 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=tohahpro)  
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=tohahpro&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D&card_width=700&card_height=295)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tohahpro)](https://github.com/anuraghazra/github-readme-stats)
 
 
