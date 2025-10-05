@@ -5,7 +5,7 @@
 # 👋, Hi I am Toha Hossain
 ## I'm a passionate Front-end Developer from Bangladesh.
 
-
+<!--
 - 🌱 I’m currently learning CRUD with React & Node 
 - 👯 I’m looking to collaborate on Remote Job 
 - 📫 How to reach me: tohahpro@gmail.com 
@@ -20,7 +20,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=tohahpro&theme=dark&hide_border=false&include_all_commits=false&count_private=false)     ![](https://nirzak-streak-stats.vercel.app/?user=tohahpro&theme=dark&hide_border=false)     ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tohahpro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
 
-
+-->
 
 
 - 🌱 Currently learning **RDBMS**
@@ -81,8 +81,8 @@ Let's connect and create something amazing together!
 <img width="96.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tohahpro&theme=algolia" alt="GitHub Streak" />
 
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tohahpro&theme=algolia" style="width: 48%; margin-bottom: 5px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tohahpro&theme=algolia" style="width: 48%; height: 100%; margin-bottom: 5px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tohahpro&theme=transparent" style="width: 48%; margin-bottom: 5px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tohahpro&theme=transparent" style="width: 48%; height: 100%; margin-bottom: 5px;">
 </p>
 
 <p align="center">
