@@ -83,6 +83,8 @@ Let's connect and create something amazing together!
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tohahpro&theme=transparent" style="width: 48%; margin-bottom: 5px;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tohahpro&theme=transparent" style="width: 48%; height: 100%; margin-bottom: 5px;">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tohahpro&theme=tokyonight" style="width: 48%; margin-bottom: 5px;" />
+
 </p>
 
 <p align="center">
