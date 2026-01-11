@@ -75,8 +75,8 @@ Let's connect and create something amazing together!
 
 ---
 
-## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" height="25px" width="25px" /> GitHub Activity
-
+## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" height="25px" width="25px" /> 
+<!--
 <p align="center">
 <img width="96.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tohahpro&theme=transparent" alt="GitHub Streak" />
 
@@ -96,7 +96,7 @@ Let's connect and create something amazing together!
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tohahpro&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D&card_width=700&card_height=295)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tohahpro&theme=transparent_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D&card_width=700&card_height=295)](https://git.io/streak-stats)
 <!-- 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnsarulIslam10&show_icons=true&theme=radical" style="width: 48%; margin-bottom: 5px;" alt="GitHub Stats" />
