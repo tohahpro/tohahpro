@@ -86,7 +86,6 @@ Let's connect and create something amazing together!
 
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tohahpro&hide_border=true&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="GitHub Streak" /></a>
 
 <!-- <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnsarulIslam10&theme=algolia" style="width: 48%; margin-bottom: 5px;">
@@ -97,11 +96,13 @@ Let's connect and create something amazing together!
 
 ## 📈 GitHub Stats
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=tohahpro&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D&card_width=700&card_height=295)](https://git.io/streak-stats)
+<!-- 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnsarulIslam10&show_icons=true&theme=radical" style="width: 48%; margin-bottom: 5px;" alt="GitHub Stats" />
 </p>
 
-<!-- 
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnsarulIslam10&theme=radical" alt="GitHub Streak" />
 </p>
