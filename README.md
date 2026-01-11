@@ -86,11 +86,7 @@ Let's connect and create something amazing together!
 
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=tohahpro&theme=dark" alt="GitHub Streak">
-  </a>
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tohahpro&hide_border=true&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="GitHub Streak" /></a>
 
 <!-- <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnsarulIslam10&theme=algolia" style="width: 48%; margin-bottom: 5px;">
