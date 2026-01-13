@@ -99,6 +99,12 @@ Let's connect and create something amazing together!
 [![GitHub Streak](https://streak-stats.demolab.com?user=tohahpro&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D&card_width=700&card_height=295)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tohahpro&theme=transparent&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=620&card_height=200)](https://git.io/streak-stats)
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=tohahpro&theme=transparent" alt="GitHub Streak">
+  </a>
+</p>
 <!-- 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnsarulIslam10&show_icons=true&theme=radical" style="width: 48%; margin-bottom: 5px;" alt="GitHub Stats" />
