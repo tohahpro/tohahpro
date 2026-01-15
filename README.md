@@ -95,21 +95,16 @@ Let's connect and create something amazing together!
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tohahpro&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+
+<p align="center">    
+
+      <!--<a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=tohahpro&theme=transparent" alt="GitHub Streak">  </a> -->
+
+   ![](https://github-readme-stats.vercel.app/api?username=tohahpro&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=tohahpro&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tohahpro&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=tohahpro&theme=transparent_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D&card_width=700&card_height=295)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=tohahpro&theme=transparent&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=620&card_height=200)](https://git.io/streak-stats)
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=tohahpro&theme=transparent" alt="GitHub Streak">
-  </a>
 </p>
 <!-- 
 <p align="center">
