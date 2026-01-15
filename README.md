@@ -97,12 +97,7 @@ Let's connect and create something amazing together!
 # 📊 GitHub Stats:
 
 
-<p align="center">    
-
-      <!-- 
-      <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=tohahpro&theme=transparent" alt="GitHub Streak">  </a> 
-    -->
+<p align="center">  
 
    ![](https://github-readme-stats.vercel.app/api?username=tohahpro&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=tohahpro&theme=highcontrast&hide_border=false)<br/>
