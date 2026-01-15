@@ -96,7 +96,7 @@ Let's connect and create something amazing together!
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tohahpro&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D&card_width=700&card_height=295)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tohahpro&theme=transparent_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D&card_width=700&card_height=295)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tohahpro&theme=transparent&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=620&card_height=200)](https://git.io/streak-stats)
 
