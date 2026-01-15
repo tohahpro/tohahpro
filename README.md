@@ -76,7 +76,7 @@ Let's connect and create something amazing together!
 ---
 
 ## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" height="25px" width="25px" /> 
-<!--
+
 <p align="center">
 <img width="96.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tohahpro&theme=transparent" alt="GitHub Streak" />
 
